@@ -1,6 +1,8 @@
 # AI Security Monitor Portable
 
-https://github.com/Hannesjht/WINDOWS-SECURITY-MONITORING-APP-RUN-LOCAL/releases/edit/untagged-72a59ce4605110ae3444              New release
+https://github.com/Hannesjht/WINDOWS-SECURITY-MONITORING-APP-RUN-LOCAL/releases/edit/untagged-72a59ce4605110ae3444             
+
+ New release
 
 # Build Instructions
 
